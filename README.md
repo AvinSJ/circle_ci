@@ -122,3 +122,8 @@ git push -u origin main
 >HEROKU_EMAIL_ADDRESS
 
 >DOCKER_IMAGE_NAME=<wafercircle3270303>
+  
+  
+## deployed on heroku server
+  https://avincirclecidemo.herokuapp.com/
+  
